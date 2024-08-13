@@ -38,3 +38,7 @@ To run J.A.T.E locally:
 Pull down and/or branch this repository
 Run npm i to install all dependencies
 Invoke application with npm run start
+
+GitHub Repo Link: https://github.com/Cyrus8685/TextEditor
+
+Render.com Deployment Link: https://texteditor-jk38.onrender.com
